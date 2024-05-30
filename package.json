@@ -2,6 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dunkin-python-goit.github.io/Web21-20-front_simple/",
   "dependencies": {
     "@chakra-ui/react": "^2.0.2",
     "@emotion/react": "^11.9.0",
